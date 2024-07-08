@@ -1,32 +1,28 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The following program is a simple tic-tac-toe game that allows two players to play. Simply 
+enter a row number followed by a column number.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+My goal was to get a deeper understanding of the C# language. My hope is that I'll be
+more capable after this project.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dndYRTkTbic)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+## tools
+VsCode, Jetbrains Rider
 
-{Describe the programming language that you used and any libraries.}
+## language
+C# and the system library
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [Simplilearn](https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/c-sharp-basics-for-beginners)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add a proper GUI that allows easier use of the program.
+- the file that saves who wins should save the board state too.
+- Look into developing a Chess game with this as a stepping stone.
